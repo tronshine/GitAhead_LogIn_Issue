@@ -1,0 +1,19 @@
+Steps To Currect This Authnetication Error
+1. Go To Your GitHub Account
+2. Go to User Settings
+3. Select The last option That is Developer settings
+4. You will have 3 options available
+(
+  1. GitHub Apps
+  2. OAuth Apps
+  3. Personal Access Tokens
+)
+5. Select Personal Access Tokens
+6. if You had any previous token generated you will be able to see that there
+7. if you have any token Click on the token name and click regenerate token (undernith check or uncheck token properties as per your requirement)
+8. and it will return a 40 letters around long token code, Copy The code
+9. Paste This 40 letters around long token code as password in GitAhead Account Authentication screen with your username.
+if You do not have previous token, click generate new token
+Name Your token and undernith check or uncheck token properties as per your requirement
+Click Generate Token and it will return you to Personal access tokens Screen with a 40 letters around long token code.
+Copy This code And use it as password in GitAhead Account Authentication screen with your username.
